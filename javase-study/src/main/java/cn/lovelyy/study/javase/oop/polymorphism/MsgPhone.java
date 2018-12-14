@@ -1,4 +1,6 @@
-package cn.lovelyy.study.javase.oop.inheritance;
+package cn.lovelyy.study.javase.oop.polymorphism;
+
+import cn.lovelyy.study.javase.oop.inheritance.Dageda;
 
 /**
  * <div style="font-weight: 900">说明:</div>

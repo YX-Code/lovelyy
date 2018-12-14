@@ -1,4 +1,4 @@
-package cn.lovelyy.study.javase.oop.inheritance;
+package cn.lovelyy.study.javase.oop.polymorphism;
 
 /**
  * <div style="font-weight: 900">说明:</div>

@@ -1,6 +1,6 @@
 package cn.lovelyy.study.javase.oop.encapsulation;
 
-import cn.lovelyy.study.javase.oop.inheritance.Phone;
+import cn.lovelyy.study.javase.oop.polymorphism.Phone;
 
 /**
  * <div style="font-weight: 900">说明:</div>

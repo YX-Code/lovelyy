@@ -2,8 +2,8 @@ package cn.lovelyy.study.javase.oop;
 
 import cn.lovelyy.study.javase.oop.encapsulation.Person;
 import cn.lovelyy.study.javase.oop.inheritance.MiPhone;
-import cn.lovelyy.study.javase.oop.inheritance.MsgPhone;
-import cn.lovelyy.study.javase.oop.inheritance.Phone;
+import cn.lovelyy.study.javase.oop.polymorphism.MsgPhone;
+import cn.lovelyy.study.javase.oop.polymorphism.Phone;
 
 /**
  * <div style="font-weight: 900">说明:</div>
